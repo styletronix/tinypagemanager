@@ -1,10 +1,14 @@
 # tinypagemanager
 Knockout and JQuery based pageManager for single page web applications and PWA.
 
+# Features
+- Knockout is not required. If KO is available, it will be used to bind views on loading.
+- Provides page navigation and on demand loading of required files like HTML and JavaScript.
+- Exchange data between pages.
+- Show pages as "Modal" Dialogs with postback of data to parent views.
+- Allow use of multiple pageMangers to emulate windowed navigation and more.
+- All functions use asynchronous programming.
 
-Readme is under construction.
-
-See project for details.
 
 
 ## Installation
